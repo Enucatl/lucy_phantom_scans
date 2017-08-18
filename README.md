@@ -1,1 +1,16 @@
 # lucy_phantom_scans
+
+# Scan parameters and details
+
+30 phase steps
+7.6 um period
+1s exposure
+80 kVp
+4 mA
+
+flats:
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.140722429703
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.135944940989
+
