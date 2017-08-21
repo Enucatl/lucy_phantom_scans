@@ -29,3 +29,22 @@ height (cm),folder
 23,/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.143141729355
 25,/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.143457923306
 ```
+
+
+trying to get how much the foam alone scatters, sample completely down with the foam resting on top
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.145437165877
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.150124460407
+
+new flat
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.151405251811
+
+foam with smaller pores, compressed
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170818.152739955879
+
+foam + mouse lung
+
+
