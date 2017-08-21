@@ -47,4 +47,6 @@ foam with smaller pores, compressed
 
 foam + mouse lung
 
+flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170821.162853228500
 
+sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170821.162634907280
