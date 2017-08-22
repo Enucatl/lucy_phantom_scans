@@ -50,3 +50,9 @@ foam + mouse lung
 flat: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170821.162853228500
 
 sample: /afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170821.162634907280
+
+lung sample + mouse lung
+
+ref_scanname = '170822.093242620046';
+
+sam_scanname = '170822.093529781870';
