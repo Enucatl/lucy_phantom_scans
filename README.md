@@ -56,3 +56,7 @@ lung sample + mouse lung
 ref_scanname = '170822.093242620046';
 
 sam_scanname = '170822.093529781870';
+
+60 stability scans starting:
+
+/afs/psi.ch/user/a/abis_m/slsbl/x02da/e13510/Data20/FPD/Matteo/170822.112312108833
